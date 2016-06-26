@@ -1,6 +1,7 @@
 <template>
   <div class="world">
     <h1>{{ msg }}</h1>
+    <a v-link="{ path: '/hello', query: { userId: 123 }}">Go to hello</a>
   </div>
 </template>
 
