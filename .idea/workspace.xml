@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="11c326b3-6dfa-4951-aaf4-c1412bc90c83" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vue-cli-start.iml" afterPath="$PROJECT_DIR$/.idea/vue-cli-start.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
     </list>
     <ignored path="vue-cli-start.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -188,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1466954016217</updated>
       <workItem from="1466954017717" duration="5000" />
-      <workItem from="1466959387446" duration="590000" />
+      <workItem from="1466959387446" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="595000" />
+    <option name="totallyTimeSpent" value="639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
